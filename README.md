@@ -24,7 +24,8 @@
 * Fichier Power BI Desktop: Diagramme de Gantt
 * Fichier Power BI Desktop: Veille métier et technologique
 * Fichier Power BI Desktop: Portfolio
-* Vidéo loom: Vidéo de formation (Prise en main de Power BI): https://www.loom.com/share/3bf9000a13c44bf7a1554f82086848c2?sid=76e65ca1-81f7-4ef1-a8eb-913c9154d065
+* Vidéo loom: Vidéo de formation (Prise en main de Power BI):
+  https://www.loom.com/share/3bf9000a13c44bf7a1554f82086848c2?sid=76e65ca1-81f7-4ef1-a8eb-913c9154d065
 * PDF: Documentation technique (Réaliser un graphique sur Power BI)
 * Portfolio final : mis en ligne sur GitHub
   
